@@ -1,0 +1,23 @@
+{
+  "data":[
+    {
+      "question":"Loves Eliza?", 
+      "ans1":25, 
+      "ans2":"Rajkot", 
+      "ans3": "BE",
+      "corrAns": "BE"
+    },
+    {
+      "question":"Grows in Oklahoma?", 
+      "ans1":"corn", 
+      "ans2":"wheat", 
+      "ans3": "tomatoes",
+      "corrAns": "corn"
+    },
+    {
+      "name":"Grows in Oklahoma?", 
+      "answers":[{"ans": "corn","ans": "wheat","ans": "tomatoes"}],
+      "corrAns": "corn"
+    }
+  ]
+}

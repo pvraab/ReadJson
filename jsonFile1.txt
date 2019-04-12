@@ -1,0 +1,2 @@
+{"question": "Who is My Fair Lady", "answer": ["Eliza", "Major Pickering"], "correct": "Eliza"}
+{"question": "What is Oklahoma famous for", "answer": ["Cows", "Pigs", "Corn"], "correct": "Corn"}
